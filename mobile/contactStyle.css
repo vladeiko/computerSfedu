@@ -1,0 +1,94 @@
+.body{
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+   
+}
+.sfeduLogoContacts{
+    margin-top: 5px;
+    margin-left: 5px;
+    left: 0px;
+    width: 10vh;
+}
+.ictisLogoContacts{
+    margin-top: 5px;
+    margin-left: 5px;
+    left: 0px;
+    height: 13vh;
+}
+.changeLanguageButtonContacts{
+    right: 0;
+    padding: 10px;
+    padding-top: 10px;
+    border: none;
+    background-color: transparent;
+    color: black;
+    font-size: 1.5vh;
+    text-decoration: none;
+}
+.topPageElementContacts{
+    display: flex;
+    justify-content: space-between;
+    margin-left:  20px;
+    margin-right:  10px;
+}
+.fontHeaderContacts{
+    display: block;
+    color: black;
+    font-size: 4.4vw;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+.backgroundFontHeaderContacts{
+    padding: 20px;
+    margin: 20px 0 ;
+    width: 100wv;
+    background-color: rgba(128, 128, 128, 0.071);
+    border-radius: 5px;
+}
+.flagstyle{
+    width: 90vw;
+    height: auto;
+    
+}
+.flagWrapper{
+    text-align: center;
+}
+.centerInfo{
+    font-size: 2vh ;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0 5%;
+}
+.linkStyle{
+    text-decoration: none;
+}
+.plfonkinsflex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.pljonkinsstyle{
+    width: 80%;
+    height: auto;
+    margin: 2% 0;
+}
+.footerbackground{
+    background-color: rgba(128, 128, 128, 0.071);
+    height: 10vh;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.bold{
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+}
+.soc{
+    height: 5vh;
+    width: auto;
+}
