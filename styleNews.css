@@ -1,0 +1,128 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.sfeduLogoNews{
+    margin-top: 5px;
+    margin-left: 5px;
+    left: 0px;
+    width: 15vh;
+}
+.ictisLogoNews{
+    margin-top: 5px;
+    margin-left: 5px;
+    left: 0px;
+    height: 13vh;
+}
+.changeLanguageButtonNews{
+    right: 0;
+    padding: 2.5%;
+    padding-top: 2.5%;
+    border: none;
+    background-color: transparent;
+    color: black;
+    font-size: 3.5vh;
+    text-decoration: none;
+}
+.topPageElementNews{
+    display: flex;
+    justify-content: space-between;
+    margin-left:  20px;
+    margin-right:  10px;
+}
+.fontHeaderNews{
+    display: block;
+    color: black;
+    font-size: 3vw;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+.backgroundFontHeaderNews{
+    padding: 20px;
+    margin: 20px 0 ;
+    width: 100wv;
+    background-color: rgba(128, 128, 128, 0.071);
+    border-radius: 5px;
+}
+.wraper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.NewsPic{
+    max-width: 50%;
+    height: auto;
+    background-size:cover ;
+    text-align: center;
+    border: 1px solid rgba(128, 128, 128, 0.071);
+    border-radius: 5px;
+    margin: 0 3%;
+}
+.newsTxt{
+    height: auto;
+    margin: auto;
+    text-indent: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.00005vw ;
+}
+.styleNews{
+    margin-top: 5%;
+}
+.contacts{
+    color: black; 
+    text-align: center;
+    margin-left:  10px;
+    margin-right:  10px;
+    font-size: 2vh;
+    margin-top: 0;
+    padding-top:20px;
+    margin-bottom: 0;
+  }
+  .addressStyle{
+    padding-left: 20px;
+    color: black;
+    font-size: 1.5vh;
+}
+.backgroundCont{
+    border-radius: 5px;
+    margin: 20px 0 0 0 ;
+    width: 100wv;
+    background-color: rgba(128, 128, 128, 0.071);
+}
+.NewsTitle{
+    font-size: 2vw;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+.footerbackground{
+    background-color: rgba(128, 128, 128, 0.071);
+    height: 10vh;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10%;
+}
+.bold{
+    font-weight: bold;
+}
+.soc{
+    height: 5vh;
+    width: auto;
+}
+.container{
+    padding-left: 15%;
+    max-width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+.newsblock{
+    display: flex;
+}
+.newsflex{
+    display: flex;
+} 
+.linkstyle{
+    text-decoration: none;
+}
